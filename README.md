@@ -1,5 +1,5 @@
 ## Class
 ### create class by constructor
-#### default
-#### parametrized
-#### pointers to class objects
+1. default
+2. parametrized
+3. pointers to class objects
